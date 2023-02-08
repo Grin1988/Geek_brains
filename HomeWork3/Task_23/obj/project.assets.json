@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\Evgeniy Sogrin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Geekbrains\\_Practice\\C#\\all_project\\HomeWork3\\Task_23\\Task_23.csproj",
+      "projectUniqueName": "D:\\Geekbrains\\_Practice\\C#\\all_project\\HomeWork3\\Task_23\\Task_23.csproj",
       "projectName": "Task_23",
-      "projectPath": "E:\\Geekbrains\\_Practice\\C#\\all_project\\HomeWork3\\Task_23\\Task_23.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\Geekbrains\\_Practice\\C#\\all_project\\HomeWork3\\Task_23\\obj\\",
+      "projectPath": "D:\\Geekbrains\\_Practice\\C#\\all_project\\HomeWork3\\Task_23\\Task_23.csproj",
+      "packagesPath": "C:\\Users\\Evgeniy Sogrin\\.nuget\\packages\\",
+      "outputPath": "D:\\Geekbrains\\_Practice\\C#\\all_project\\HomeWork3\\Task_23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Evgeniy Sogrin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -58,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.113\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

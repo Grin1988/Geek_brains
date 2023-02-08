@@ -1,10 +1,9 @@
 ﻿//Напишите программу, которая принимает 
-//на вход пятизначноен число и проверяет,   
-//является ли оно палиндромом.
+//на вход число (N) и выдаёт таблицу кубов 
+//чисел от 1 до N.
 
-//14212-> нет
-//23432-> да
-//12821-> да
+//3 -> 1, 4, 9.
+//5 -> 1, 8, 27, 64, 125.
 
 int InputNumber(string str)
 {
@@ -12,7 +11,12 @@ int InputNumber(string str)
     return Convert.ToInt32(Console.ReadLine());
 }
 
-int num = InputNumber("Введите пятизначное число: ");
+int N = InputNumber("Введите число N: ");
+
+for(int num = 1; num <= N; num++)
+{
+    System.Console.Write(Math.Pow(num, 3) + ", ");
+} 
 
 
 
