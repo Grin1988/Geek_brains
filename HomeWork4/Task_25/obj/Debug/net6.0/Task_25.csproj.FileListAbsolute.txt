@@ -1,0 +1,15 @@
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\Task_25.csproj.AssemblyReference.cache
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\Task_25.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\Task_25.AssemblyInfoInputs.cache
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\Task_25.AssemblyInfo.cs
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\Task_25.csproj.CoreCompileInputs.cache
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\bin\Debug\net6.0\Task_25.exe
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\bin\Debug\net6.0\Task_25.deps.json
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\bin\Debug\net6.0\Task_25.runtimeconfig.json
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\bin\Debug\net6.0\Task_25.dll
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\bin\Debug\net6.0\ref\Task_25.dll
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\bin\Debug\net6.0\Task_25.pdb
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\Task_25.dll
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\ref\Task_25.dll
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\Task_25.pdb
+E:\Geekbrains\_Practice\C#\all_project\HomeWork4\Task_25\obj\Debug\net6.0\Task_25.genruntimeconfig.cache
