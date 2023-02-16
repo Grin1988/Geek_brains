@@ -1,0 +1,15 @@
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\bin\Debug\net6.0\Task_10.exe
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\bin\Debug\net6.0\Task_10.deps.json
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\bin\Debug\net6.0\Task_10.runtimeconfig.json
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\bin\Debug\net6.0\Task_10.dll
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\bin\Debug\net6.0\ref\Task_10.dll
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\bin\Debug\net6.0\Task_10.pdb
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\Task_10.csproj.AssemblyReference.cache
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfoInputs.cache
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\Task_10.AssemblyInfo.cs
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\Task_10.csproj.CoreCompileInputs.cache
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\Task_10.dll
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\ref\Task_10.dll
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\Task_10.pdb
+E:\Geekbrains\_Practice\C#\HomeWork2\Task_10\obj\Debug\net6.0\Task_10.genruntimeconfig.cache
