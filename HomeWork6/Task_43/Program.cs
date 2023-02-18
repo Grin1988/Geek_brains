@@ -1,38 +1,34 @@
-﻿// Напишите программу, которая найдёт точку пересечения двух прямых, 
-// заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; 
+﻿// Напишите программу, которая найдёт точку пересечения двух прямых,
+// заданных уравнениями y = k1 * x + b1, y = k2 * x + b2;
 // значения b1, k1, b2 и k2 задаются пользователем.
-
 // b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
-
-int[] GetNumber(string text) //Ввод данных
+double InputCoef(string text)
 {
-    System.Console.WriteLine(text);
-    int[] array = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
-    return array;
+    System.Console.Write(text);
+    return Convert.ToDouble(Console.ReadLine());
 }
 
-
-void SearchIntersection(int[] array) //Подсчет введенных чисел > 0 
+double[] intersectionPoint(double b1, double k1, double b2, double k2)
 {
-    int b1 = array[0];
-    int k1 = array[1];
-    int b2 = array[2];
-    int k2 = array[3];
-    int x = (b2 - b1) / (k1 - k2);
-
-    int y1 = k1 * x + b1;
-    int y2 = k2 * x + b2;
-
-    if (y1 == y2)
+    double[] arrayXY = new double[2];
+    if (k1 == k2)
     {
-        System.Console.WriteLine($"Точкой пересечения является ({x}, {y1})");
+        System.Console.WriteLine("Прямые совпадают, либо параллельны.");
     }
+        
     else
     {
-        System.Console.WriteLine("Точки пересечения нет");
+        arrayXY[0] = (b2 - b1) / (k1 - k2);
+        arrayXY[1] = k1 * arrayXY[0] + b1;
+        System.Console.WriteLine($"Точкой пересения прямых есть координаты ({arrayXY[0]}, {arrayXY[1]})");
     }
+    return arrayXY;
 }
 
-int[] arr = GetNumber("Введите b1 k1 b2 k2");
-SearchIntersection(arr);
+double k1 = InputCoef("Введите коэффициент k1 для первой прямой: ");
+double b1 = InputCoef("Введите коэффициент b1 для первой прямой: ");
+double k2 = InputCoef("Введите коэффициент k2 для второй прямой: ");
+double b2 = InputCoef("Введите коэффициент b2 для второй прямой: ");
+
+double[] Point = intersectionPoint(b1, k1, b2, k2);
