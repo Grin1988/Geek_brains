@@ -1,0 +1,15 @@
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.csproj.AssemblyReference.cache
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.AssemblyInfoInputs.cache
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.AssemblyInfo.cs
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.csproj.CoreCompileInputs.cache
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.exe
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.deps.json
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.runtimeconfig.json
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.dll
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\bin\Debug\net6.0\ref\Task_48.dll
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\bin\Debug\net6.0\Task_48.pdb
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.dll
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\ref\Task_48.dll
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.pdb
+E:\Geekbrains\_Practice\C#\all_project\Seminar_7\Task_48\obj\Debug\net6.0\Task_48.genruntimeconfig.cache

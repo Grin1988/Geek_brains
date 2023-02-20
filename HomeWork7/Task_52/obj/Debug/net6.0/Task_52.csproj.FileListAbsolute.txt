@@ -1,0 +1,15 @@
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\Task_52.csproj.AssemblyReference.cache
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\Task_52.GeneratedMSBuildEditorConfig.editorconfig
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfoInputs.cache
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\Task_52.AssemblyInfo.cs
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\Task_52.csproj.CoreCompileInputs.cache
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\bin\Debug\net6.0\Task_52.exe
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\bin\Debug\net6.0\Task_52.deps.json
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\bin\Debug\net6.0\Task_52.runtimeconfig.json
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\bin\Debug\net6.0\Task_52.dll
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\bin\Debug\net6.0\Task_52.pdb
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\Task_52.dll
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\ref\Task_52.dll
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\Task_52.pdb
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\Task_52.genruntimeconfig.cache
+E:\Geekbrains\_Practice\C#\all_project\HomeWork7\Task_52\obj\Debug\net6.0\refint\Task_52.dll
