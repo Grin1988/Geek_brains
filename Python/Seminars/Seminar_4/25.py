@@ -5,8 +5,21 @@
 # Output: a a_1 a_2 b c a_3 a_4 d c_1 d_1 d_2
 # Для решения данной задачи используйте функцию .split()
 
-lms = input('Введите строку: ')
+strr = input('Введите строку: ')
 
-list(lms.split())
+lst = strr.split()
+print(lst)
+d = {}
+for i in lst:
+    d[i] = 0
 
-print(lms)
+out_str = ''
+
+for i in lst:
+    if d[i] == 0:
+        out_str += i + ' '
+    else:
+        out_str += i + '_' + str(d[i]) + ' '
+    d[i] += 1
+
+print(out_str)
