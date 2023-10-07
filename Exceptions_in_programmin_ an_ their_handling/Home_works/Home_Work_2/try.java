@@ -1,4 +1,4 @@
-package Exceptions_in_programmin_an_their_handling.Home_Work_2;
+
 
 public class try{
 // Задача 2

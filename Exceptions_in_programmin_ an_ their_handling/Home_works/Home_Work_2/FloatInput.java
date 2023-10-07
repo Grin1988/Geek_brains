@@ -1,5 +1,3 @@
-package Exceptions_in_programmin_an_their_handling.Home_Work_2;
-
 import java.util.Scanner;
 
 public class FloatInput {
