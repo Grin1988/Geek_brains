@@ -1,3 +1,5 @@
+package HW_1;
+
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 
@@ -18,19 +20,19 @@ public class CalculatorTest {
 
         // Valid input values
         Assertions.assertThat(calculator.calculateDiscount(100.0, 10.0))
-                .isEqualTo(90.0);
+            .isEqualTo(90.0);
 
         // Check if it rounds correctly
         Assertions.assertThat(calculator.calculateDiscount(101.0, 10.0))
-                .isEqualTo(90.90);
+            .isEqualTo(90.90);
 
         // Check if discount is 0%
         Assertions.assertThat(calculator.calculateDiscount(100.0, 0.0))
-                .isEqualTo(100.0);
+            .isEqualTo(100.0);
 
         // Check if discount is 100%
         Assertions.assertThat(calculator.calculateDiscount(100.0, 100.0))
-                .isEqualTo(0.0);
+            .isEqualTo(0.0);
     }
 
     @Test(expected = ArithmeticException.class)

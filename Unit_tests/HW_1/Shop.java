@@ -1,3 +1,5 @@
+package HW_1;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -37,10 +39,11 @@ public class ShopTest {
 
         List<Product> sortedProducts = shop.getProducts();
         Assertions.assertThat(sortedProducts)
-                .containsExactly(
-                        new Product("Product C", 70.0),
-                        new Product("Product A", 50.0),
-                        new Product("Product B", 30.0));
+            .containsExactly(
+                new Product("Product C", 70.0),
+                new Product("Product A", 50.0),
+                new Product("Product B", 30.0)
+            );
     }
 
     @Test
@@ -52,7 +55,7 @@ public class ShopTest {
 
         Product mostExpensiveProduct = shop.getMostExpensiveProduct();
         Assertions.assertThat(mostExpensiveProduct)
-                .isEqualTo(new Product("Product C", 70.0));
+            .isEqualTo(new Product("Product C", 70.0));
     }
 
     @Test
@@ -60,6 +63,6 @@ public class ShopTest {
         Shop shop = new Shop();
         Product mostExpensiveProduct = shop.getMostExpensiveProduct();
         Assertions.assertThat(mostExpensiveProduct)
-                .isNull();
+            .isNull();
     }
 }
