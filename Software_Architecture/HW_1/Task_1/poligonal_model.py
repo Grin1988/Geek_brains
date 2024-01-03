@@ -8,6 +8,7 @@ class Poligon:
     pass
 
 class PoligonalModel(ModelElements):
-    def __init__(self, texture, poligon):
-        self.texture = texture
-        self.poligon = poligon
+    def init(self, textures):
+        self.Poligons = []
+        self.Textures = textures
+        self.Poligons.append(Poligon(Point3D()))
